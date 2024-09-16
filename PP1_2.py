@@ -17,7 +17,7 @@ print(f"quotient of the two numbers is {num1//num2}")
 
 num1=6.3
 num2=3.0
-print(f"quotient of two numbers is {num1//num2}")
+print(f"quotient of two numbers is {num1/num2}")
 
 word="Hello World"
 print(word)
