@@ -9,7 +9,7 @@ def q2():
   num1=3
   num2=2
   num3=5
-print(f"sum of all numbers is {num1+num2+num3}")
+  print(f"sum of all numbers is {num1+num2+num3}")
 def q3():
   num1=21
   num2=4
