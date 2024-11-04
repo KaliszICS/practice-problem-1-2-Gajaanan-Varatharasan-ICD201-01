@@ -34,7 +34,7 @@ def q6():
 def q7():
   num1=7
   num2=2
-  print(f"remainder of two numbers is {num1%num2}")
+  print(num1%num2)
 
 #q1()
 #q2()
