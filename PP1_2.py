@@ -13,7 +13,8 @@ def q2():
 def q3():
   num1=21
   num2=4
-  print(f"quotient of the two numbers is {num1//num2}")
+  numround=int(num1/num2)
+  print(f"quotient of the two numbers is {numround}")
   
 def q4():
   num1=6.3
