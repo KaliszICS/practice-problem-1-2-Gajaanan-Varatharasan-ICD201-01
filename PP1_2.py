@@ -9,17 +9,17 @@ def q2():
   num1=3
   num2=2
   num3=5
-  print(f"sum of all numbers is {num1+num2+num3}")
+  print(num1+num2+num3)
 def q3():
   num1=21
   num2=4
   numround=int(num1/num2)
-  print(f"quotient of the two numbers is {numround}")
+  print(numround)
   
 def q4():
   num1=6.3
   num2=3.0
-  print(f"quotient of two numbers is {num1/num2}")
+  print(num1/num2)
   
 def q5():
   word="Hello World"
